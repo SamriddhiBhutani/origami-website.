@@ -1,0 +1,132 @@
+h2{
+    color:crimson;
+    background-color: skyblue;
+    text-align: center;
+}
+
+p{
+    color: plum;
+}
+a:active{
+	color: #ff00ff
+}
+a:visited{
+	color: #ff0000
+}
+img{
+    border:solid rgb(201, 141, 219);
+    border-radius:50px;
+}
+.panda{
+    background: coral;
+    padding: 10px;
+	text-align: center;
+	border: solid 1px black;
+	box-shadow: 0 0 15px black;
+	margin-left: 300px;
+	margin-right: 300px;
+	border-radius: 20px 5px;
+	box-shadow: 0 5px 10px black;
+}
+.panda:hover{
+	transform: scale(1.1);
+	background-color: rgb(0, 48, 97);
+	color: green;
+	border-radius: 2px;
+}
+.teddy{
+	background:coral;
+	margin-top: 50px;
+	padding:10px;
+	text-align: center;
+	border: solid 1px black;
+	box-shadow: 0 0 15px black;
+	margin-left: 300px;
+	margin-right: 300px;
+}
+.teddy:hover{
+	transform: scale(1.1);
+	background-color: rgb(0, 48, 97);
+	color: green;
+	border-radius: 2px;
+}
+.pigeon{
+	background: coral;
+	margin-top: 50px;
+	padding:10px;
+	text-align: center;
+	border: solid 1px black;
+	box-shadow: 0 0 15px black;
+	margin-left: 300px;
+	margin-right: 300px;
+}
+.pigeon:hover{
+	transform: scale(1.1);
+	background-color: rgb(0, 48, 97);
+	color: green;
+	border-radius: 2px;
+}
+.camel{
+	background: coral;
+	margin-top: 50px;
+	padding:10px;
+	text-align: center;
+	border: solid 1px black;
+	box-shadow: 0 0 15px black;
+	margin-left: 300px;
+	margin-right: 300px;
+}
+.camel:hover{
+	transform: scale(1.1);
+	background-color: rgb(0, 48, 97);
+	color: green;
+	border-radius: 2px;
+}
+.chameleon{
+	background: coral;
+	margin-top: 50px;
+	padding:10px;
+	text-align: center;
+	border: solid 1px black;
+	box-shadow: 0 0 15px black;
+	margin-left: 300px;
+	margin-right: 300px;
+}
+.chameleon:hover{
+	transform: scale(1.1);
+	background-color: rgb(0, 48, 97);
+	color: green;
+	border-radius: 2px;
+}
+.cicada{
+	background: coral;
+	margin-top: 50px;
+	padding:10px;
+	text-align: center;
+	border: solid 1px black;
+	box-shadow: 0 0 15px black;
+	margin-left: 300px;
+	margin-right: 300px;
+}
+.cicada:hover{
+	transform: scale(1.1);
+	background-color: rgb(0, 48, 97);
+	color: green;
+	border-radius: 2px;
+}
+.bear{
+	background: coral;
+	margin-top: 50px;
+	padding:10px;
+	text-align: center;
+	border: solid 1px black;
+	box-shadow: 0 0 15px black;
+	margin-left: 300px;
+	margin-right: 300px;
+}
+.bear:hover{
+	transform: scale(1.1);
+	background-color: rgb(0, 48, 97);
+	color: green;
+	border-radius: 2px;
+}
